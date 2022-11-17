@@ -9,7 +9,7 @@
 
 <p align='center'>
   
-  <a href="https://github.com/abe-ma-915/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abe-ma-915&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
+  <a href="https://github.com/abe-ma-915/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abe-ma-915&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="abe-ma-915's github stats" /></a> 
   
 </p>
 
